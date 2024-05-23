@@ -1,0 +1,1 @@
+Result<keyberon::matrix::Matrix<stm32f0xx_hal::gpio::Pin<stm32f0xx_hal::gpio::Input<stm32f0xx_hal::gpio::PullUp>>, stm32f0xx_hal::gpio::Pin<stm32f0xx_hal::gpio::Output<stm32f0xx_hal::gpio::PushPull>>, 6, 4>, Infallible>
